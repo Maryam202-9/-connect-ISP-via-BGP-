@@ -39,24 +39,15 @@ This project focuses on designing and configuring an internal and external netwo
 
 ## Tools & Technologies Used
 - Cisco Packet Tracer
-- GNS3
 - Cisco Routers & Switches
 - Routing Protocols: OSPF, EIGRP, BGP
 
-## How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   ```
-2. Open the Packet Tracer or GNS3 file.
-3. Follow the configurations step-by-step as outlined in the documentation.
 
 
 
-## License
-This project is licensed under the [MIT License](LICENSE).
+
+
 
 ---
 
-Feel free to modify the content or add any specific details about your project setup!
 
