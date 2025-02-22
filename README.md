@@ -1,4 +1,4 @@
-# -connect-ISP-via-BGP-
+
 # Connect ISP via BGP
 
 ## Project Overview
