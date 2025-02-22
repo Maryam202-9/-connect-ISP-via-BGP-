@@ -51,9 +51,7 @@ This project focuses on designing and configuring an internal and external netwo
 2. Open the Packet Tracer or GNS3 file.
 3. Follow the configurations step-by-step as outlined in the documentation.
 
-## Contributors
-- [Your Name]
-- [Team Member's Name]
+
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
